@@ -28,10 +28,10 @@ python attack.py
 ## Ethical Considerations
 ⚠️ Important: This tool is designed for research purposes and responsible AI safety evaluation. Please:
 
-Use only for authorized red-teaming and safety research
-Follow responsible disclosure practices
-Do not use for malicious purposes
-Refer to our ethics guidelines in the paper
+* Use only for authorized red-teaming and safety research
+* Follow responsible disclosure practices
+* Do not use for malicious purposes
+* Refer to our ethics guidelines in the paper
 
 ## Citation
 If you use CognitiveAttack in your research, please cite:

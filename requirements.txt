@@ -1,0 +1,11 @@
+tqdm
+openai==1.83.0
+torch
+transformers
+fastchat
+trl==0.9.6
+pandas
+ipykernel
+peft
+matplotlib
+networkx

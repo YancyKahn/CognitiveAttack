@@ -7,7 +7,6 @@ CognitiveAttack systematically leverages both individual and combined cognitive 
 
 ## Installation
 ```bash
-git clone https://github.com/your-repo/CognitiveAttack.git
 cd CognitiveAttack
 pip install -r requirements.txt
 ```

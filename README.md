@@ -1,5 +1,23 @@
-# CognitiveAttack
-A novel red-teaming framework that exploits cognitive biases to bypass safety mechanisms in Large Language Models (LLMs).
+# Exploiting Synergistic Cognitive Biases to Bypass Safety in LLMs
+
+
+<div align="center">
+
+<a href="https://github.com/YancyKahn">Xikang Yang</a><sup>1,2</sup>, Biyu Zhou<sup>1</sup>, Xuehai Tang<sup>1</sup>, Jizhong Han<sup>1</sup>, Songlin Hu<sup>1,2</sup>
+
+<p>
+<sup>1</sup>Institute of Information Engineering, Chinese Academy of Sciences / Beijing, China
+
+<sup>2</sup>School of Cyber Security, University of Chinese Academy of Sciences / Beijing, China
+</p>
+
+**Warning: This paper may include harmful or unethical content from LLMs.**
+
+
+**AAAI 2026 Oral**
+
+[[Paper v1](https://arxiv.org/pdf/2507.22564)] &nbsp;&nbsp; [[Paper latest comming soon...](waiting)]
+</div>
 
 
 ## Overview

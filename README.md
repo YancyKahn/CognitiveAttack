@@ -16,8 +16,10 @@
 
 **AAAI 2026 Oral**
 
-[[Paper v1](https://arxiv.org/pdf/2507.22564)] &nbsp;&nbsp; [[Paper latest comming soon...](waiting)]
+[[Paper v1](https://arxiv.org/pdf/2507.22564)] &nbsp;&nbsp; [[Extended version](assets/AAAI2026-7160.pdf)]
 </div>
+
+![Overview](assets/Overview.png)
 
 
 ## Overview
